@@ -49,7 +49,7 @@ const Hero = () => {
               We help you cultivate calm, release stress, and create
               <br /> the mental and emotional space needed to invite
               <br /> clarity, balance, and well-being into every aspect of
-              <br /> your life.
+              <br /> your life is good.
             </h3>
           </div>
         </div>
