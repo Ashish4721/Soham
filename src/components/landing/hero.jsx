@@ -29,7 +29,7 @@ const Hero = () => {
             </div>
 
             <div>
-              <button style={Fonts.poppins.regular} className="bg-[#00DADA] py-4 px-15 rounded-full text-white hover:bg-black duration-[800ms]">
+              <button style={Fonts.poppins.regular} className="bg-[#000000] py-4 px-15 rounded-full text-white hover:bg-black duration-[800ms]">
                 Try for free
               </button>
             </div>
